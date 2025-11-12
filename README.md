@@ -4,6 +4,8 @@
 
 ## 📒 Descrição
 
+Olá! Sou **Pedro Vygotsky**, desenvolvedor **Front-End** e **entusiasta de Inteligência Artificial**.  
+Atuo com tecnologias como **React, TypeScript, JavaScript e Node.js**, e tenho grande interesse em explorar como a **IA Generativa** pode transformar a criação de conteúdo e o desenvolvimento de soluções digitais.
 Este repositório reúne os projetos desenvolvidos durante o **Bootcamp Nexa - Fundamentos de IA Generativa com Bedrock**, da **Digital Innovation One (DIO)**.  
 Cada criação reflete o aprendizado sobre como as **IAs Generativas** estão transformando a maneira de produzir conhecimento, arte, áudio e vídeo.  
 
