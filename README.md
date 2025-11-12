@@ -102,11 +102,4 @@ A experiência reforçou não apenas o potencial técnico das IAs Generativas, m
 - Descript  
 - Adobe Premiere  
 - Libre Office  
-- GitHub  
-
----
-
-## 📢 Compartilhe
-Se quiser conhecer mais sobre o projeto, visite meu perfil e confira os demais trabalhos que compõem minha jornada como desenvolvedor e entusiasta de IA.  
-
-**#LabDIONattyOrNot #BootcampNexa #IAGenerativa #DigitalInnovationOne**
+- GitHub
